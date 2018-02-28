@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/tologin"
+            android:title="登录"
+            />
+        <item
+            android:id="@+id/nav_one_poetry"
+            android:icon="@drawable/home"
+            android:title="一首"
+            />
+        <item
+            android:id="@+id/nav_my_collection"
+            android:icon="@drawable/my_collection"
+            android:title="我的收藏" />
+        <item
+            android:id="@+id/nav_upload_voice"
+            android:icon="@drawable/up"
+            android:title="我上传的音频" />
+    </group>
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MyPoetry"
+  id="myeclipse.1515232222879"
+  context-root="/MyPoetry"
+  j2ee-spec="5.0"
+  archive="MyPoetry.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
