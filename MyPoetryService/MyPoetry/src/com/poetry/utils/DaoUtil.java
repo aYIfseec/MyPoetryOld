@@ -18,11 +18,11 @@ import java.util.List;
 
 public class DaoUtil {
 	private static final String DRIVER = "com.mysql.jdbc.Driver";
-	private static final String URL = "jdbc:mysql://119.29.142.195:3306/mypoetry"
+	private static final String URL = "jdbc:mysql://YourServiceAddress:3306/mypoetry"
 			+ "?useUnicode=true&characterEncoding=UTF-8"
 			+ "&useOldAliasMetadataBehavior=true";
-	private static final String USER = "root";
-	private static final String PASS = "Hyk@123456";
+	private static final String USER = "yourUserName";
+	private static final String PASS = "yourPassword";
 
 	static {
 		try {
